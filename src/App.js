@@ -1,8 +1,4 @@
 import React, { useEffect, useRef, useState } from 'react';
-// import Main from './weatherapp/Main';
-// import './priceTracker/main.css';
-// import Logo from './priceTracker/Logo';
-// import Coin from './priceTracker/Coin';
 import Header from './FAQReader/Header';
 import alanBtn from "@alan-ai/alan-sdk-web";
 import Faq from './FAQReader/Faq';
